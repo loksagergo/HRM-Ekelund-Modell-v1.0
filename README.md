@@ -35,7 +35,7 @@ The program now features standardized international metallurgical terminology:
 
 ## 🚀 How to Run the Program
 1. Go to the **[Releases](https://github.com/loksagergo/HRM-Ekelund-Modell-v1.0/releases)** section.
-2. Download the latest `hotrolling.zip`.
+2. Download the latest `v1.0HRM`.
 3. Extract and run the `.exe` file.
 4. Select your **Steel Grade** and enter the rolling parameters as prompted.
 
